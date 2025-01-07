@@ -1,0 +1,186 @@
+body {
+
+    font-family: Arial, sans-serif;
+
+    margin: 0;
+
+    padding: 0;
+
+    background-color: #f4f4f4;
+
+}
+
+ 
+
+header {
+
+    background-color: #333;
+
+    color: #fff;
+
+    padding: 1rem;
+
+    text-align: center;
+
+}
+
+ 
+
+main {
+
+    padding: 1rem;
+
+}
+
+ 
+
+section {
+
+    margin-bottom: 2rem;
+
+}
+
+ 
+
+video {
+
+    width: 100%;
+
+    max-width: 600px;
+
+}
+
+#video-content{
+
+    display: flex;
+
+    justify-content: space-between;
+
+    background-color: white;
+
+    flex-direction: row;
+
+}
+
+.quiz-button {
+
+   
+
+    padding: 1rem;
+
+    margin: 1rem 0;
+
+    background-color: green;
+
+    color: #fff;
+
+    text-align: center;
+
+    text-decoration: none;
+
+    border-radius: 5px;
+
+}
+
+.back-button {
+
+    padding: 1rem;
+
+    margin: 1rem 0;
+
+    background-color: red;
+
+    color: #fff;
+
+    text-align: center;
+
+    text-decoration: none;
+
+    border-radius: 5px;
+
+}
+
+.quiz-progress-container {
+
+    display: flex;
+
+    justify-content: space-between;
+
+    align-items: center;
+
+}
+
+ 
+
+#progressBarContainer {
+
+    width: 100%;
+
+    background-color: gray;
+
+    margin-top: 20px;
+
+}
+
+#progressBar {
+
+    height: 30px;
+
+    width: 0;
+
+    background-color: green;
+
+    text-align: center;
+
+    line-height: 30px;
+
+    color: white;
+
+}
+
+.submit-btn {
+
+    padding: 1rem;
+
+    margin: 1rem 0;
+
+    font-size: medium;
+
+    background-color: blue;
+
+    color: #fff;
+    text-align: center;
+
+    text-decoration: none;
+
+    border-radius: 5px;
+
+    margin-left: 10px;
+
+    margin-top: 20px;
+
+}
+
+ 
+
+.home-back-button{
+
+    width: 150px;
+
+    padding: 1rem;
+
+    margin: 1rem 0;
+
+    background-color: yellowgreen;
+
+    color: #fff ;
+
+    text-align: center;
+
+    text-decoration: none ;
+
+    border-radius: 5px;
+
+}
+
+ 
